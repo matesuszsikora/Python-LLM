@@ -1,0 +1,43 @@
+EXPERIMENT PARAMETERS: chunk_size=1000, model=llama-3.3, k=10 (search context increased)
+==============================
+CANDIDATE RANKING
+#1 - ANYA SHARMA
+   • LLM Score:            9/10
+   • Similarity (RAG):     0.72
+
+STRENGTHS: 5 years of experience in Python, Proven track record of improving system efficiency and reducing latency, Experience with Django and Flask, Knowledge of SQL databases, Experience with Docker
+AREAS FOR IMPROVEMENT: 
+SUMMARY: Anya Sharma is a results-driven Python programmer with 5 years of experience, proficient in Django and Flask, and experienced with cloud environments. She has a proven track record of improving system efficiency and reducing latency.
+
+#2 - JAN_KOWALSKI
+   • LLM Score:            9/10
+   • Similarity (RAG):     1.03
+
+STRENGTHS: 7 years of experience in Python, Fluent knowledge of Django, Experience with Docker, Knowledge of SQL databases
+AREAS FOR IMPROVEMENT: 
+SUMMARY: Jan Kowalski is a highly experienced Senior Python Developer with 7 years of experience in creating scalable web applications. He specializes in Django, microservices architecture, and cloud solutions. He also has experience with Machine Learning and automation.
+
+#3 - PIOTR_WISNIEWSKI
+   • LLM Score:            9/10
+   • Similarity (RAG):     1.08
+
+STRENGTHS: 6 years of experience in Python, Fluent knowledge of Django, Experience with Docker, Knowledge of SQL databases
+AREAS FOR IMPROVEMENT: 
+SUMMARY: Piotr Wisniewski is a highly experienced Full Stack Developer with 6 years of experience in Python, Django, and React. He has a strong background in cloud computing, DevOps, and CI/CD. He is a passionate advocate for clean code and good programming practices.
+
+#4 - ANNA_NOWAK
+   • LLM Score:            6/10
+   • Similarity (RAG):     1.27
+
+STRENGTHS: 3 years of experience in creating web applications, Flask specialization, Basic knowledge of Docker, Experience with REST API
+AREAS FOR IMPROVEMENT: Less than 5 years of experience in Python, Limited experience with Docker
+SUMMARY: Anna Nowak is a Python Developer with 3 years of experience in web development, specializing in Flask and having basic knowledge of Docker. She has experience in creating REST API and working with SQL databases.
+
+#5 - MARCIN_LEWANDOWSKI
+   • LLM Score:            6/10
+   • Similarity (RAG):     1.02
+
+STRENGTHS: Strong foundation in Python, Experience with Django and Flask, Knowledge of SQL databases
+AREAS FOR IMPROVEMENT: Limited experience with Docker, Limited experience with Kubernetes
+SUMMARY: Marcin Lewandowski is a junior Python developer with 1.5 years of commercial experience. He has a strong foundation in Python and experience with Django and Flask. He is also knowledgeable about SQL databases and has experience with Git and REST API.
+
